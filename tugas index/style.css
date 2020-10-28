@@ -5,7 +5,6 @@
 }
 header {
     height: 100vh;
-    background: cover;
     background-position: center;
 }
 ul {
@@ -45,7 +44,7 @@ ul li.active a{
     position: absolute;
     top: 30%;
     left: 30%;
-    transform: translate(-50% -50%);
+    
 }
 .title h1 {
     font-family: sans-serif;
@@ -57,14 +56,14 @@ ul li.active a{
     top: 80%;
     left: 60%;
     color:#000;
-    transform: translate(-50% -50%);
+    
 }
 .pa {
     position: absolute;
     top: 50%;
     left: 10%;
     color: #000;
-    transform: translate(-50% -50%);
+    
 }
 
 .udin {
@@ -72,7 +71,7 @@ ul li.active a{
     top: 40%;
     left: 30%;
     color: #fff;
-    transform: translate(-50% -50%);
+    
 }
 .card-title {
     color: aqua;
@@ -82,7 +81,7 @@ ul li.active a{
     top: 5%;
     left: 10%;
     color: #fff;
-    transform: translate(-50% -50%);
+    
 }
 .card-body {
     text-decoration: none;
